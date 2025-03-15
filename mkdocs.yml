@@ -1,3 +1,14 @@
-site_name: My Docs
+site_name: ВЖУХ Wiki
 theme: 
   name: material
+  palette:
+    scheme: slate
+    primary: orange
+    accent: deep orange
+
+markdown_extensions:
+  - tables
+  - def_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
