@@ -8,3 +8,4 @@
 ## Наши ресурсы
 * [Наш сайт](https://vzuh.bitrix24site.ru/)
 * [Наша CRM](https://vzuh.bitrix24.ru/crm)
+* [Телеграм бот расчета цены @VZUH_T_bot](https://t.me/VZUH_T_bot)
